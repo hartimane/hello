@@ -6,7 +6,7 @@ int main()
   printf("Hello World!");
   printf("Donnez un nombre: ");
   scanf("%d",&n);
-  printf("Vous avez choisi %d!"
+  printf("Vous avez choisi %d!");
   return 0;
 }
 
